@@ -58,7 +58,7 @@
 						<img src="/img/imagen8.jpeg">
 						</li>
 						<li>
-						<img src="/img/imagen4.jpeg">
+						<img src="/img/imagen1.jpeg">
 						</li>
 						<li>
 						<img src="/img/imagen5.jpeg">
