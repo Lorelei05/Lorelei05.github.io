@@ -1,7 +1,4 @@
-@font-face{
-  font-family: 'FuenteP';
-  src: url(Lonelyday);
-}
+
 * {
   margin: 0;
   padding: 0;
@@ -15,7 +12,7 @@ body {
   linear-gradient(rgba(218, 116, 7, 0.747), rgb(111, 44, 138));
   
   background-color: rgba(232, 223, 223, 0.744);
-  font-family: "Open Sans";
+  /*font-family:'Franklin Gothic Medium';*/
   font-size: 20px; }
 
 .contenedor {
@@ -79,7 +76,7 @@ header {
       vertical-align: top;
       border: 5px solid rgba(255, 255, 255, 0.2); }
   .main .acerca-de .texto {
-    color: #5a5a5a;
+    color: #252424;
     font-weight: 500;
     font-size: 1em;
     line-height: 30px;
@@ -90,7 +87,7 @@ header {
       margin-bottom: 5px;
       line-height: 34px;
       font-weight: 300;
-      color: #dd4f0d;
+      color: #14010d72;
       text-align: center; }
     .main .acerca-de .texto .bold {
       color: #3895ea;
